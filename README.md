@@ -1,1 +1,1 @@
-# Big-Data-EBig-Data-with-GCP-and-Azure-Cloud
+# Big-Data-with-GCP-and-Azure-Cloud
